@@ -14,8 +14,9 @@ int modify_me()
     system("clear"); // clear screen [optional]
    
 
-    // YOUR CODE HERE
-
+	printf("Name: Silver\n");
+	printf("Symbol: Ag\n");
+	printf("Atomic number: 47\n");
     
     return 0; // don't change this
 }

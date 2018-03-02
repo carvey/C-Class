@@ -67,7 +67,6 @@ int query_user_data(char *name)
 {
     do             
     {
-		printf("Enter your first name: ");        
 
 		if(fgets(name,17,stdin) != NULL) 
 		{

@@ -16,6 +16,21 @@ double modify_me(int x)
      * The user supplied input is the input parameter (x) to this function. */ 
 
 
+		if (x % 3 == 0 && x % 5 == 0) {
+			printf("fizzbuzz\n");
+		}
+
+		else if (x % 3 == 0) {
+			printf("fizz\n");
+		}
+
+		else if (x % 5 == 0) {
+			printf("buzz\n");
+		}
+		else {
+			printf("%d\n", x);
+		} 
+	
 
 
    // Leave this return statement
