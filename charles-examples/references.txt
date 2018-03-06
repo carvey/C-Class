@@ -1,0 +1,8 @@
+sort -> sort.c
+read a file without contaminating a buffer -> 
+swap -> swap.c
+fix code -> hopeitisnthard.c
+getopt -> getopt.c
+bit flip -> bitflip.c
+dynamically allocated structure -> structs.c
+

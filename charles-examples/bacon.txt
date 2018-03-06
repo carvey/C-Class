@@ -1,0 +1,4 @@
+first line
+BACON line
+third line
+BACOND line again
